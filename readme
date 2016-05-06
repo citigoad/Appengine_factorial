@@ -1,0 +1,10 @@
+Homework 4
+
+
+This is a dynamic factorial web application in python.
+It uses memcache for the fast processing to calculate factorial of large integers.
+The other webservice is Google user management. It is very beneficial for user login and logout without using databases.
+
+The application consists of a form with a submit button. This gives the user to enter any number
+so that it gives the factorial. This uses the Get method which can be seen in the URL.
+When the user enters 'f' in the URL it flushes the memcache.
